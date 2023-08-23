@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I'm just a regular guy who likes programming and embedded systems :)
+
 If you want to contact me, just send me an email. Since I don't want to receive too many bot messages, just compose my email from my username, the @ sign and the email provider (username: ptissen, email provider: outlook.de). Hopefully not every bot manages this :)
 
-
+Feel free to check my Gitlab Account too: [tissen](https://gitlab.com/Tissen)
 
 <!--
 **ptissen/ptissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
